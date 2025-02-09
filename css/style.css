@@ -3,6 +3,7 @@ body {
 	font-size: 16px;
 	line-height: 1.5;
 	color: #434455;
+	background-color: #ffffff;
 }
 
 a {
@@ -30,10 +31,10 @@ button {
 	line-height: 1.17;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
-	color: #2e2f42;
+	color: #4d5ae5;
 }
 .logo-style {
-	color: #4d5ae5;
+	color: #2e2f42;
 }
 .header-nav-list {
 }
@@ -47,13 +48,13 @@ button {
 
 .nav-list-item-link:hover,
 .nav-list-item-link:focus,
-.nav-list-item-link-hover:active,
 .header-contacts-list-link:hover,
 .header-contacts-list-link:focus {
 	color: #404bbf;
 }
 
 .header-contacts {
+	font-style: normal;
 }
 .header-contacts-list {
 }
@@ -135,6 +136,7 @@ button {
 .our-team-list {
 }
 .our-team-list-item {
+	background-color: #ffffff;
 }
 .our-team-list-item-content-header {
 	font-weight: 500;
@@ -178,7 +180,7 @@ button {
 	background-color: #2e2f42;
 }
 
-.footer .logo {
+.footer .logo-style {
 	color: #f4f4fd;
 }
 .footer-text {
